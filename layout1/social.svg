@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 21.0.2, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 64 64" style="enable-background:new 0 0 64 64;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:#2D2D2D;}
+	.st1{fill:none;stroke:#000000;stroke-miterlimit:10;}
+	.st2{fill:#FFFFFF;stroke:#2D2D2D;stroke-width:1.5;stroke-miterlimit:10;}
+	.st3{fill:#FFFFFF;}
+	.st4{font-family:'Papyrus-Regular';}
+	.st5{font-size:12px;}
+</style>
+<rect class="st0" width="64" height="64"/>
+<path class="st1" d="M15,45.6"/>
+<path class="st1" d="M28.8,33.5"/>
+<path class="st1" d="M34.6,44.7"/>
+<path class="st1" d="M34.6,44.7"/>
+<path class="st1" d="M14.1,44.7"/>
+<g id="XMLID_3_">
+	<path class="st2" d="M43.9,37.4H21.3c0-7.7,2-14.5,5.1-18.3c1.5,1.6,3.7,2.7,6.1,2.7c2.4,0,4.5-1,6-2.5
+		C41.8,23.1,43.9,29.8,43.9,37.4z"/>
+	<path class="st2" d="M38.6,19.3c-1.5,1.6-3.7,2.5-6,2.5c-2.4,0-4.6-1-6.1-2.7c-1.4-1.5-2.3-3.5-2.3-5.7c0-4.6,3.8-8.4,8.4-8.4
+		c4.6,0,8.4,3.8,8.4,8.4C41,15.7,40.1,17.7,38.6,19.3z"/>
+</g>
+<g id="XMLID_1_">
+	<path class="st2" d="M22.3,33.1c-1.3,1.3-3.1,2.1-5,2.1c-2,0-3.9-0.9-5.1-2.2c-1.2-1.3-1.9-3-1.9-4.8c0-3.9,3.1-7,7-7
+		c3.9,0,7,3.1,7,7C24.3,30.1,23.6,31.9,22.3,33.1z"/>
+	<path class="st2" d="M26.8,48.4H7.9c0-6.5,1.7-12.1,4.3-15.3c1.3,1.4,3.1,2.2,5.1,2.2c2,0,3.8-0.8,5-2.1C25,36.4,26.8,42,26.8,48.4
+		z"/>
+</g>
+<g id="XMLID_2_">
+	<path class="st2" d="M52.9,33.1c-1.3,1.3-3.1,2.1-5,2.1c-2,0-3.9-0.9-5.1-2.2c-1.2-1.3-1.9-3-1.9-4.8c0-3.9,3.1-7,7-7
+		c3.9,0,7,3.1,7,7C54.9,30.1,54.1,31.9,52.9,33.1z"/>
+	<path class="st2" d="M57.3,48.4H38.4c0-6.5,1.7-12.1,4.3-15.3c1.3,1.4,3.1,2.2,5.1,2.2c2,0,3.8-0.8,5-2.1
+		C55.6,36.4,57.3,42,57.3,48.4z"/>
+</g>
+<text transform="matrix(1 0 0 1 15.5879 59.5225)" class="st3 st4 st5">Social</text>
+</svg>
