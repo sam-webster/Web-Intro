@@ -1,0 +1,18 @@
+p {
+	text-align : left;
+	text-align : top;
+}
+aside {
+	
+}
+figure {
+	border : 0.2em solid #AAAAAA;
+}
+
+figure:hover {
+	border : 0.4em solid #AA2222;
+}
+
+article {
+	margin-left : 3%;
+	margin-right : 10%;

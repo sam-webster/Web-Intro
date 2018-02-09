@@ -1,0 +1,31 @@
+@import "import.css";
+@import "not_tbl.css";
+h1 {
+	color : white;
+	
+	font-size : 3em 
+	}
+h1#header1 {
+	border : 0.1em solid transparent;
+	width : 100%;
+	text-align : center 
+	}
+p {
+	color : white;
+	
+	}
+p.frame {
+	border : 0.3em solid transparent;
+	}
+
+html, body {
+	height : 100%;
+	width : 100%;
+	/*background-image : linear-gradient(black, blue);*/
+	background-color : #2d2d2d;
+	background-image : url("magic.svg");
+	background-repeat : no-repeat;
+	background-position : center;
+	/*background-size : cover;*/
+
+}
